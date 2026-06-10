@@ -17,7 +17,7 @@ export default function Home() {
 
         <div className="rounded-2xl border border-slate-700 bg-slate-900 p-6 text-left">
           <h2 className="text-2xl font-semibold mb-4">
-            eCard Prototype
+            eCard Prototype — Version 1
           </h2>
 
           <ul className="space-y-2 text-slate-300">
